@@ -2,3 +2,12 @@ body {
    background-color: #E6E6FA;
    color: #191970;
 }
+p { background-color: #AEAED4; 
+}
+#my_p_id { background-color: #FFFFFF; 
+}
+#my_p_id_2 { background-color: #FF0000;
+}
+p { background-color: #A6C6DF; 
+}
+main p { background-color: inherit; }
